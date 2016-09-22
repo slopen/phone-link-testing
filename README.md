@@ -1,1 +1,1 @@
-[view demo](https://rawgithub.com/slopen/phone-links-testing/master/index.html)
+[view demo](https://rawgithub.com/slopen/phone-link-testing/master/index.html)
